@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: gic
+Upstream-Contact: karthek <mail@karthek.com>
+Source: https://github.com/karthek-git/gic
+
+Files: *
+Copyright: Karthik Alapati
+License: MIT
+
+Files: oi_download.py
+Copyright: 2020 James Adams
+License: MIT
