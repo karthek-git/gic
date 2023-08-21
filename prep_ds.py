@@ -229,7 +229,7 @@ def prep_ds():
         "snake": "Animals",
         "sparrow": "Birds",
         "squid": "Animals",
-        "squirrel": "Birds",
+        "squirrel": "Animals",
         "starfish": "Animals",
         "swan": "Birds",
         "tiger": "Animals",
