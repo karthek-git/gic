@@ -60,6 +60,6 @@ Copyright 2023 Karthik Alapati
 
 Licensed under the MIT: https://github.com/karthek-git/gic/blob/master/LICENSES/MIT.txt
 
-For more details, See [.reuse/dep5](https://gitlab.com/karthek/gic/-/blob/master/.reuse/dep5)
+For more details, See [.reuse/dep5](https://github.com/karthek-git/gic/blob/master/.reuse/dep5)
 
 Google Play and the Google Play logo are trademarks of Google LLC.
