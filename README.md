@@ -56,7 +56,7 @@ For troubleshooting and questions, please write to me at mail@karthek.com
 
 ## License
 
-Copyright 2023 Karthik Alapati
+Copyright 2025 Karthik Alapati
 
 Licensed under the MIT: https://github.com/karthek-git/gic/blob/master/LICENSES/MIT.txt
 
